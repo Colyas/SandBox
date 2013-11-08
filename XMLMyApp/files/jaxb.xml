@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company id="0" name="ITCompany">
+    <departaments>
+        <departaments id="0">
+            <name>IT</name>
+            <workers>
+                <workers id="0">
+                    <name>Tom</name>
+                </workers>
+                <workers id="0">
+                    <name>Nick</name>
+                </workers>
+            </workers>
+        </departaments>
+        <departaments id="0">
+            <name>HR</name>
+            <workers>
+                <workers id="0">
+                    <name>Tina</name>
+                </workers>
+                <workers id="0">
+                    <name>Nicka</name>
+                </workers>
+            </workers>
+        </departaments>
+    </departaments>
+</company>
